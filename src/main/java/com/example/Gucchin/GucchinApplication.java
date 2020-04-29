@@ -21,4 +21,9 @@ class HelloController {
     public String Hello() {
         return "Проверка связи";
     }
+
+    @GetMapping("/test")
+    public String Test() {
+        return "Тестинг";
+    }
 }

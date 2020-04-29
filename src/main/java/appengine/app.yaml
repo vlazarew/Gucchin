@@ -1,4 +1,4 @@
-runtime: java11
-instance_class: F2
-#env_variables:
-entry_point: java -noverify -jar Gucchin-0.0.1-SNAPSHOT.jar
+#runtime: java11
+#instance_class: F2
+##env_variables:
+#entry_point: java -noverify -jar Gucchin-0.0.1-SNAPSHOT.jar
