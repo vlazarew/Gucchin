@@ -18,7 +18,6 @@ public class GucchinApplication {
 class HelloController {
 
     @GetMapping("/hello")
-    
     public String Hello() {
         return "Проверка связи";
     }
