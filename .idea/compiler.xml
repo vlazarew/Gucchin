@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Gucchin" target="11" />
+      <module name="Gucchin" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
