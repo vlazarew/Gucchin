@@ -54,7 +54,7 @@
                 <artifactId>appengine-maven-plugin</artifactId>
                 <configuration>
                     <deploy.stopPreviousVersion>true</deploy.stopPreviousVersion>
-                    <cloudSdkPath>C:\Program Files\Google\google-cloud-sdk\bin</cloudSdkPath>
+<!--                    <cloudSdkPath>C:\Program Files\Google\google-cloud-sdk\bin</cloudSdkPath>-->
                 </configuration>
             </plugin>
             <plugin>
